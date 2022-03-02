@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tani Dev</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat nulla in iaculis gravida. Vivamus sit amet quam vel lectus tincidunt dapibus malesuada quis lorem. Pellentesque et diam euismod, sollicitudin erat quis, condimentum eros. Vestibulum nec maximus augue. Sed pharetra lectus ac nisl maximus aliquam.</string>
+    <string name="lbl_general_title">Infromasi Umum</string>
+    <string name="lbl_nutrition_title">Infromasi Nutrisi</string>
+    <string name="lbl_plant_main_title">Padi</string>
+    <string name="lbl_diseas_title">Infromasi Penyakit</string>
+    <string name="lbl_plant_suggestion">Tanaman Terkait</string>
+    <string name="lbl_dummy_disease_title">Bercak Daun (Padi)</string>
+    <string name="lbl_dummy_disease_treatment">Infromasi Penanggulangan</string>
+    <string name="lbl_dummy_prevention">Informasi Pencegahan</string>
+    <string name="lbl_disease_suggestion">Penyakit Terkait</string>
+    <string name="lbl_dummy_instruction_usage">Infromasi Cara Penggunaan</string>
+    <string name="lbl_dosis">Informasi Dosis Pemakaian</string>
+    <string name="lbl_dummy_fertilizer">Pupuk NPK</string>
+    <string name="lbl_something_wrong">Oops.. something went wrong</string>
+    <string name="lbl_search">Cari info mengenai ...</string>
+    <string name="lbl_dashboard">Dashboard</string>
+    <string name="lbl_information">Informasi</string>
+    <string name="lbl_title_dashboard_dialog">Nikmati Fitur Dashboard</string>
+    <string name="lbl_desc_dashboard_dialog">Dapatkan teknologi TaniDev dan tingkatkan hasil pertanianmu hingga 200% dengan</string>
+    <string name="lbl_resgiter_now">Daftar Sekarang</string>
+    <string name="lbl_name">Nama</string>
+    <string name="lbl_phone_number">Nomor Hp</string>
+    <string name="lbl_region">Kabupaten/Kota</string>
+    <string name="lbl_land_area">Luas Lahan</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_has_account">Sudah memiliki akun?</string>
+    <string name="lbl_go_to_login">Masuk disini</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_title_sensor">Sensor dalam \nPengembangan!</string>
+    <string name="lbl_desc_sesor_request">Klik tombol dibawah untuk dapatkan akses awal penggunaan sensor!</string>
+    <string name="lbl_request">Saya Mau!</string>
+    <string name="lbl_signup_here">Daftar disini</string>
+    <string name="lbl_dont_have_account">Belum memiliki akun ?</string>
+    <string name="lbl_signup">Daftar</string>
+    <string name="lbl_identification_no">NIK/Nomor KTP</string>
+    <string name="lbl_product_offering">Apakah kamu tertarik \n meningkatkan hasil hingga \n <font color="#365F1F"><b>200%</b></font></string>
+</resources>
